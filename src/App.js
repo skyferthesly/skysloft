@@ -17,11 +17,10 @@ class App extends Component {
         </head>
         <div className="App">
             <header className="App-header">
-              <img src={logo} className="App-logo" alt="logo" />
+              {/* <img src={logo} className="App-logo" alt="logo" /> */}
             </header>
             <h3>
                     <Latex>What is $(3\times 4) \div (5-3)$</Latex>
-                    <Latex displayMode={true}>$$(3\times 4) \div (5-3)$$</Latex>
                     <Latex displayMode={true}>$$(3\times 4) \div (5-3)$$</Latex>
             </h3>
         </div>
