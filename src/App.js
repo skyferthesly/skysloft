@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { return_latex_string } from './resume.mjs'
+import latex_string from './resume.tex'
 
 var latex_string = return_latex_string()
 var Latex = require('react-latex');
@@ -22,6 +22,7 @@ class App extends Component {
             <h3>
                     <Latex>What is $(3\times 4) \div (5-3)$</Latex>
                     <Latex displayMode={true}>$$(3\times 4) \div (5-3)$$</Latex>
+                    <Latex>{latex_string}</Latex>
             </h3>
 
             <Input/>
