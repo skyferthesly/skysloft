@@ -1,14 +1,14 @@
 {
-  "main.css": "/skyferthesly/skysloft/static/css/main.5f359301.chunk.css",
-  "main.js": "/skyferthesly/skysloft/static/js/main.febcb054.chunk.js",
-  "main.js.map": "/skyferthesly/skysloft/static/js/main.febcb054.chunk.js.map",
-  "runtime~main.js": "/skyferthesly/skysloft/static/js/runtime~main.3eb315d6.js",
-  "runtime~main.js.map": "/skyferthesly/skysloft/static/js/runtime~main.3eb315d6.js.map",
-  "static/js/2.64adfac5.chunk.js": "/skyferthesly/skysloft/static/js/2.64adfac5.chunk.js",
-  "static/js/2.64adfac5.chunk.js.map": "/skyferthesly/skysloft/static/js/2.64adfac5.chunk.js.map",
-  "index.html": "/skyferthesly/skysloft/index.html",
-  "precache-manifest.1fbbf7a2f330a2dc3ec89c788fdf3fb4.js": "/skyferthesly/skysloft/precache-manifest.1fbbf7a2f330a2dc3ec89c788fdf3fb4.js",
-  "service-worker.js": "/skyferthesly/skysloft/service-worker.js",
-  "static/css/main.5f359301.chunk.css.map": "/skyferthesly/skysloft/static/css/main.5f359301.chunk.css.map",
-  "static/media/logo.svg": "/skyferthesly/skysloft/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.5f359301.chunk.css",
+  "main.js": "/static/js/main.aa783a96.chunk.js",
+  "main.js.map": "/static/js/main.aa783a96.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.64adfac5.chunk.js": "/static/js/2.64adfac5.chunk.js",
+  "static/js/2.64adfac5.chunk.js.map": "/static/js/2.64adfac5.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.d7c34b4ef1ce2afc62c66d1b8b3b4696.js": "/precache-manifest.d7c34b4ef1ce2afc62c66d1b8b3b4696.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.5f359301.chunk.css.map": "/static/css/main.5f359301.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
